@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm khirod kumar dass</h1>
 <h3 align="center">A passionate frontend Data Scientist from India</h3>
 
